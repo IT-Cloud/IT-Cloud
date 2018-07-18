@@ -11,13 +11,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "CloudIT Blog"
 title_separator          : "-"
 name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+description              : &description "IT Blog for IT Professionals"
+url                      : https://cloudit.ge # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "IT-Cloud/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -73,10 +73,10 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "mmistakes"
+#twitter:
+#  username               : &twitter "mmistakes"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook "CloudIT.ge"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -86,8 +86,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    # - "https://twitter.com/mmistakes"
+    - "https://www.facebook.com/cloudit.ge"
 
 # Analytics
 analytics:
@@ -104,8 +104,8 @@ author:
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Buffalo, NY"
   email            :
-  uri              : "https://mademistakes.com"
-  home             : "https://mademistakes.com"
+  uri              : "https://cloudit.ge"
+  home             : "https://cloudit.ge"
   bitbucket        :
   codepen          :
   dribbble         :
