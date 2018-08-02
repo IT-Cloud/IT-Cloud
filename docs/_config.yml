@@ -204,9 +204,9 @@ collections:
 
 # Defaults
 defaults:
-  # _posts1
+  # _posts
   - scope:
-      path: "_docs\_posts1"
+      path: ""
       type: posts
     values:
       layout: single
@@ -290,7 +290,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 
 # Archives
