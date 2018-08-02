@@ -206,7 +206,7 @@ collections:
 defaults:
   # _posts1
   - scope:
-      path: ""
+      path: "_docs\_posts1"
       type: posts
     values:
       layout: single
