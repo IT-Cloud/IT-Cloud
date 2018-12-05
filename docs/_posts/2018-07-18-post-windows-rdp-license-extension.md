@@ -5,7 +5,25 @@ categories:
   - jekyll
 last_modified_at: 2018-02-19T08:06:00-05:00
 ---
-ეს არის საცდელი პოსტი 2 3434534
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+ეს არის საცდელი პოსტი 2 34345341
+=======
+ეს არის საცდელი პოსტი 2233
+>>>>>>> 0d6f57796363bf3d5087446cef2b7c34dc480f8f
+=======
+ეს არის საცდელი პოსტი
+>>>>>>> parent of d7ff380... Move default posts to OLD
+=======
+ეს არის საცდელი პოსტი
+>>>>>>> parent of d7ff380... Move default posts to OLD
+=======
+ეს არის საცდელი პოსტი
+>>>>>>> parent of d7ff380... Move default posts to OLD
+
 This post should not appear in the search index because it has the following YAML Front Matter:
 
 ```yaml
